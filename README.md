@@ -1,0 +1,3 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&vCenter=true&random=true&height=40&lines=I'm+lazy)](https://git.io/typing-svg)  
+| <a href="https://github.com/YorigamiChitose"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YorigamiChitose&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/YorigamiChitose"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YorigamiChitose&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
